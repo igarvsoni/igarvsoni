@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @igarvsoni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Garv Soni 👋
 
-<!---
-igarvsoni/igarvsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science student passionate about building things that matter  
+🌍 Based in India  
+💡 Currently exploring **Data Structures & Algorithms** and **Full-Stack Development**  
+🤝 Looking to collaborate on **open-source projects** and **web apps**  
+📬 Reach me at: [your-email@gmail.com] | [LinkedIn URL]  
+⚡ Fun fact: I debug with console.log and I'm not ashamed.
+
+---
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Garv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igarvsoni&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igarvsoni&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=igarvsoni&theme=tokyonight)](https://git.io/streak-stats)
