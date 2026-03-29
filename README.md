@@ -15,12 +15,6 @@
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
 ![Java](https://skillicons.dev/icons?i=java,c,cpp,html,git,github,vscode)
 
 
