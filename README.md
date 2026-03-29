@@ -30,7 +30,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=igarvsoni&theme=tokyonight)](https://git.io/streak-stats)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=igarvsoni&theme=tokyonight&row=1)
 
 
 
