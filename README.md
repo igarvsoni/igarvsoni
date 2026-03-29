@@ -10,6 +10,8 @@
 ⚡ Fun fact: I debug with console.log and I'm not ashamed.
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=igarvsoni.igarvsoni)
+
 
 ## 🛠️ Tech Stack
 
