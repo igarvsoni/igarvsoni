@@ -29,3 +29,6 @@
 ## 🔥 Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=igarvsoni&theme=tokyonight)](https://git.io/streak-stats)
+
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=igarvsoni&theme=tokyo-night)
