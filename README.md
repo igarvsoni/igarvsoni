@@ -4,7 +4,7 @@
 🌍 Based in India  
 💡 Currently exploring **Data Structures & Algorithms** and **Full-Stack Development**  
 🤝 Looking to collaborate on **open-source projects** and **web apps**  
-📬 Reach me at: [your-email@gmail.com] | [LinkedIn URL]  
+📬 Reach me at: [garvsoni.soni13071@gmail.com] | [https://www.linkedin.com/in/igarvsoni/]  
 ⚡ Fun fact: I debug with console.log and I'm not ashamed.
 
 ---
