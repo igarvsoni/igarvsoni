@@ -21,6 +21,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
+![Java](https://skillicons.dev/icons?i=java,c,cpp,html,git,github,vscode)
+
 
 ## 📊 GitHub Stats
 
