@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20I'm%20Garv!&fontSize=40)
+
 # Hi there, I'm Garv Soni 👋
 
 🎓 Computer Science student passionate about building things that matter  
